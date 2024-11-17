@@ -1,0 +1,35 @@
+# Reproduction command (with lincs version 1.1.0): lincs generate classification-problem 5 5 --random-seed 437669567
+kind: classification-problem
+format_version: 1
+criteria:
+  - name: Criterion 1
+    value_type: real
+    preference_direction: increasing
+    min_value: 0
+    max_value: 1
+  - name: Criterion 2
+    value_type: real
+    preference_direction: increasing
+    min_value: 0
+    max_value: 1
+  - name: Criterion 3
+    value_type: real
+    preference_direction: increasing
+    min_value: 0
+    max_value: 1
+  - name: Criterion 4
+    value_type: real
+    preference_direction: increasing
+    min_value: 0
+    max_value: 1
+  - name: Criterion 5
+    value_type: real
+    preference_direction: increasing
+    min_value: 0
+    max_value: 1
+ordered_categories:
+  - name: Worst category
+  - name: Intermediate category 1
+  - name: Intermediate category 2
+  - name: Intermediate category 3
+  - name: Best category

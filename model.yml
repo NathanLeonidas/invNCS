@@ -1,0 +1,21 @@
+# Reproduction command (with lincs version 1.1.0): lincs generate classification-model problem.yml --random-seed 563368755 --model-type mrsort
+kind: ncs-classification-model
+format_version: 1
+accepted_values:
+  - kind: thresholds
+    thresholds: [0.401287168, 0.497822821, 0.783028185, 0.810981095]
+  - kind: thresholds
+    thresholds: [0.221896783, 0.307583719, 0.781222701, 0.943008065]
+  - kind: thresholds
+    thresholds: [0.346604854, 0.578712225, 0.642458618, 0.979417861]
+  - kind: thresholds
+    thresholds: [0.338378817, 0.432314157, 0.696382105, 0.86267662]
+  - kind: thresholds
+    thresholds: [0.492912829, 0.681760609, 0.865327239, 0.976545632]
+sufficient_coalitions:
+  - &coalitions
+    kind: weights
+    criterion_weights: [0.086166054, 0.772449076, 0.244787171, 0.14248544, 0.313086301]
+  - *coalitions
+  - *coalitions
+  - *coalitions
