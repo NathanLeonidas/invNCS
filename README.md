@@ -2,14 +2,11 @@
 
 Ce projet explore l'utilisation des réseaux de neurones artificiels (ANN) pour traiter des données personnalisées. Il comprend des étapes allant de la génération d'un dataset à l'entraînement d'un modèle ANN.
 
-## Contenu
+##Documentation
 
-- **Import des libraries** : Mise en place des bibliothèques nécessaires au projet.
-- **Paramètres généraux** : Configuration des hyperparamètres et autres réglages globaux.
-- **Génération du dataset** : Création d'un jeu de données adapté au problème ciblé.
-- **Chargement du dataset** : Préparation et mise en forme des données pour le modèle.
-- **Modèle** : Définition et implémentation du réseau de neurones.
-- **Boucle d'entraînement** : Entraînement et évaluation du modèle sur les données.
+Vous pouvez consulter la documentation (le rapport du projet pour la soutenance à la fin de l'année) directement ici :
+
+[![Documentation](Rapport_LEWY_Nathan.pdf)](Rapport_LEWY_Nathan.pdf)
 
 ## Prérequis
 
@@ -28,3 +25,7 @@ Installez les dépendances avec la commande suivante :
 ```bash
 pip install numpy pandas matplotlib torch
 pip install lincs --only-binary lincs
+```
+
+
+
