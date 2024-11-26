@@ -2,7 +2,7 @@
 
 Ce projet explore l'utilisation des réseaux de neurones artificiels (ANN) pour traiter des données personnalisées. Il comprend des étapes allant de la génération d'un dataset à l'entraînement d'un modèle ANN.
 
-##Documentation
+## Documentation
 
 Vous pouvez consulter la documentation (le rapport du projet pour la soutenance à la fin de l'année) directement ici :
 
