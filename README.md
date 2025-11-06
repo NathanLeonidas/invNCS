@@ -6,7 +6,7 @@ Ce projet explore l'utilisation des réseaux de neurones artificiels (ANN) pour 
 
 Vous pouvez consulter la documentation (le rapport du projet pour la soutenance à la fin de l'année) directement ici :
 
-[![Documentation](Rapport_LEWY_Nathan.pdf)](Rapport_LEWY_Nathan.pdf)
+[![Documentation](Rapport_CS.pdf)](Rapport_CS.pdf)
 
 ## Prérequis
 
